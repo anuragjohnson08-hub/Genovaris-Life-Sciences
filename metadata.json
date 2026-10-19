@@ -1,0 +1,6 @@
+{
+  "name": "Genovaris Life Sciences",
+  "description": "Health solutions designed around better living. Nutrition-focused formulations, therapeutic support, and quality medical solutions by Genovaris Lifesciences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
