@@ -411,7 +411,7 @@ export default function LandingPage() {
           </div>
 
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight leading-[1.1] mb-6">
-            Health solutions designed around <span className="underline decoration-[#2E8B1E] decoration-wavy decoration-2 underline-offset-8">better living</span>.
+            Health solutions designed around better living.
           </h1>
           
           <p className="text-base sm:text-lg md:text-xl opacity-90 font-medium max-w-2xl mb-8 leading-relaxed">
